@@ -1,0 +1,1 @@
+localhost/your_folder_name/file_name.php
