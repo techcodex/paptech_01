@@ -1,0 +1,7 @@
+1.convert 321 into 123 using modules
+2.convert temperature degress into farhanite
+3.convert temperature farhanite into degreesss
+4.Take Temperatrue into degreee then convert into faranhite then check
+the weather using if else if
+5.Take grade and check what marks it is using switch
+6.Check Wheather Nunber is Prime Number or Not using if else
