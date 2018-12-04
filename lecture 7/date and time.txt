@@ -1,0 +1,16 @@
+date_default_timezone_set("Asia/Karachi");
+//l for day in alphabet
+//F for month in alphabets
+//d for date
+//H for malitary time
+//h for simple time 
+//a for am or pm
+
+var_dump(checkdate(2, 29, 1981));
+hour minute sec month day year
+•	Date(“Y-m-d H:i:s a”);
+•	getdate(); returns string
+•	mktime(h,m,s,day,month,year);
+•	time()
+•	strtotime(date(Y-m-d H:i:s));
+•	checkdate(date);
