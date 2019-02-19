@@ -1,0 +1,2 @@
+php artisan make:migration create_todos_table --create=todos
+php artisan make:model -m
